@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966"></h1>
+<h1 align="center"><img height ="500" width ="750" src="https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966"></h1>
 <h1 align="center">Hi 👋, I'm Pusparaj</h1>
 <h3 align="center">I am a tech enthusiast,persuing Computer Science.</h3>
 
