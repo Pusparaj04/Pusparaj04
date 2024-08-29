@@ -1,4 +1,4 @@
-<h1 align="center"><img height ="400" width ="750" src="https://camo.githubusercontent.com/d5e260cd2600454c2736f2c53e35d2aa65da6a9504041dece08bc943934a2eaa/68747470733a2f2f6d656469612e74656e6f722e636f6d2f336254785a34486472797341414141642f706978656c732d6e656f6e2e676966"></h1>
+<h1 align="center"><img height ="600" width ="850" src="https://i.pinimg.com/564x/4b/bc/5c/4bbc5c7f9365f56b36f3806bb40a1b9a.jpg"></h1>
 <h1 align="center">Hi 👋, I'm Pusparaj</h1>
 <h3 align="center">I am a tech enthusiast,persuing Computer Science.</h3>
 
