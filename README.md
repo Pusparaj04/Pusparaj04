@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pusparaj04&label=Profile%20views&color=0e75b6&style=flat" alt="pusparaj04" /> </p>
 
-- 🌱 I’m currently learning **DSA and exploring new technologies**
+- 🌱 I’m currently learning **DSA, Spring Boot and exploring new technologies**
 
 - 📫 How to reach me **pusparajkarna143@gmail.com**
 
