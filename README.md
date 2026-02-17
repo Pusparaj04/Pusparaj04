@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **DSA, Spring Boot and exploring new technologies**
 
-- 📫 How to reach me **pusparajkarna143@gmail.com**
+- 📫 How to reach me **pusparajkarna@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
